@@ -1,0 +1,2 @@
+ C-x C-s  means hold the CONTROL key while typing the character <chr>
+	  Thus, C-f would be: hold the CONTROL key and type f.
